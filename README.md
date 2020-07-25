@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![ScarSu's github stats](https://github-readme-stats.vercel.app/api?username=scarsu)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-| | |
+|||
 |--|--|
 | 个人网站 | [www.scarsu.com](www.scarsu.com) |
 | 公众号 | 自律神仙ScarSu |
