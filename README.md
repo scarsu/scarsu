@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 [![ScarSu's github stats](https://github-readme-stats.vercel.app/api?username=scarsu)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-| 个人网站 | [www.scarsu.com](https://www.scarsu.com) |
+| 个人网站 | <a href="https://www.scarsu.com" target="_blank">www.scarsu.com</a> |
 |--|--|
 | 公众号 | 自律神仙ScarSu |
