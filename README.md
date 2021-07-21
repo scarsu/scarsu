@@ -2,7 +2,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=scarsu&style=plastic)
 
-<a href="mailto:scarsu001@gmail.com"><img src="https://img.shields.io/badge/-mailme: scarsu001@gmail.com-%23323031?style=flat&logo=gmail" alt="gmail" /></a>
+<a href="mailto:scarsu001@gmail.com"><img src="https://img.shields.io/badge/-Mail To Me: scarsu001@gmail.com-%23323031?style=flat&logo=gmail" alt="gmail" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=scarsu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="ScarSu's github stats" height="160" />
 
