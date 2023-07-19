@@ -13,9 +13,6 @@
 - 为了更愉快的使用Notion，我开发了一个浏览器插件[NotionX](https://github.com/scarsu/NotionX)，目前在Google商店有8000+用户。
 - 我是DIY手工爱好者🔨~
 - 我倡导断舍离📖 + 极简低消的生活~
-- 我有一个发原创文章的个人公众号：自律神仙ScarSu
-
-<img class="w-96 common-scale" loading="lazy" decoding="async" id="slogan_img" src="https://scarsu.oss-cn-shanghai.aliyuncs.com/20230711204552.png" title="微信公众号：自律神仙ScarSu"/>
 
 ![profile views](https://komarev.com/ghpvc/?username=scarsu&style=plastic)
 
